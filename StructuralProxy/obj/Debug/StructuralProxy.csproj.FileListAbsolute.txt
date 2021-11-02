@@ -1,0 +1,6 @@
+C:\Users\guney.balci\source\repos\DesignPatterns\StructuralProxy\bin\Debug\StructuralProxy.exe.config
+C:\Users\guney.balci\source\repos\DesignPatterns\StructuralProxy\bin\Debug\StructuralProxy.exe
+C:\Users\guney.balci\source\repos\DesignPatterns\StructuralProxy\bin\Debug\StructuralProxy.pdb
+C:\Users\guney.balci\source\repos\DesignPatterns\StructuralProxy\obj\Debug\StructuralProxy.csproj.CoreCompileInputs.cache
+C:\Users\guney.balci\source\repos\DesignPatterns\StructuralProxy\obj\Debug\StructuralProxy.exe
+C:\Users\guney.balci\source\repos\DesignPatterns\StructuralProxy\obj\Debug\StructuralProxy.pdb

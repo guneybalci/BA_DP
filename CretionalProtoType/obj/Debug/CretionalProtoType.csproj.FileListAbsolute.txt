@@ -1,0 +1,7 @@
+C:\Users\guney.balci\source\repos\DesignPatterns\CretionalProtoType\bin\Debug\CretionalProtoType.exe.config
+C:\Users\guney.balci\source\repos\DesignPatterns\CretionalProtoType\bin\Debug\CretionalProtoType.exe
+C:\Users\guney.balci\source\repos\DesignPatterns\CretionalProtoType\bin\Debug\CretionalProtoType.pdb
+C:\Users\guney.balci\source\repos\DesignPatterns\CretionalProtoType\obj\Debug\CretionalProtoType.csproj.AssemblyReference.cache
+C:\Users\guney.balci\source\repos\DesignPatterns\CretionalProtoType\obj\Debug\CretionalProtoType.csproj.CoreCompileInputs.cache
+C:\Users\guney.balci\source\repos\DesignPatterns\CretionalProtoType\obj\Debug\CretionalProtoType.exe
+C:\Users\guney.balci\source\repos\DesignPatterns\CretionalProtoType\obj\Debug\CretionalProtoType.pdb

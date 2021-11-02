@@ -1,0 +1,7 @@
+C:\Users\guney.balci\source\repos\DesignPatterns\CreationalSingleton\bin\Debug\CreationalSingleton.exe.config
+C:\Users\guney.balci\source\repos\DesignPatterns\CreationalSingleton\bin\Debug\CreationalSingleton.exe
+C:\Users\guney.balci\source\repos\DesignPatterns\CreationalSingleton\bin\Debug\CreationalSingleton.pdb
+C:\Users\guney.balci\source\repos\DesignPatterns\CreationalSingleton\obj\Debug\CreationalSingleton.csproj.AssemblyReference.cache
+C:\Users\guney.balci\source\repos\DesignPatterns\CreationalSingleton\obj\Debug\CreationalSingleton.csproj.CoreCompileInputs.cache
+C:\Users\guney.balci\source\repos\DesignPatterns\CreationalSingleton\obj\Debug\CreationalSingleton.exe
+C:\Users\guney.balci\source\repos\DesignPatterns\CreationalSingleton\obj\Debug\CreationalSingleton.pdb

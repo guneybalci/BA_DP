@@ -1,0 +1,6 @@
+C:\Users\guney.balci\source\repos\DesignPatterns\CreationalFactory\bin\Debug\CreationalFactory.exe.config
+C:\Users\guney.balci\source\repos\DesignPatterns\CreationalFactory\bin\Debug\CreationalFactory.exe
+C:\Users\guney.balci\source\repos\DesignPatterns\CreationalFactory\bin\Debug\CreationalFactory.pdb
+C:\Users\guney.balci\source\repos\DesignPatterns\CreationalFactory\obj\Debug\CreationalFactory.csproj.CoreCompileInputs.cache
+C:\Users\guney.balci\source\repos\DesignPatterns\CreationalFactory\obj\Debug\CreationalFactory.exe
+C:\Users\guney.balci\source\repos\DesignPatterns\CreationalFactory\obj\Debug\CreationalFactory.pdb

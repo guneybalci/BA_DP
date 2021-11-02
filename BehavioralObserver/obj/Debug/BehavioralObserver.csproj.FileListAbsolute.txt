@@ -1,0 +1,6 @@
+C:\Users\guney.balci\source\repos\DesignPatterns\BehavioralObserver\bin\Debug\BehavioralObserver.exe.config
+C:\Users\guney.balci\source\repos\DesignPatterns\BehavioralObserver\bin\Debug\BehavioralObserver.exe
+C:\Users\guney.balci\source\repos\DesignPatterns\BehavioralObserver\bin\Debug\BehavioralObserver.pdb
+C:\Users\guney.balci\source\repos\DesignPatterns\BehavioralObserver\obj\Debug\BehavioralObserver.csproj.CoreCompileInputs.cache
+C:\Users\guney.balci\source\repos\DesignPatterns\BehavioralObserver\obj\Debug\BehavioralObserver.exe
+C:\Users\guney.balci\source\repos\DesignPatterns\BehavioralObserver\obj\Debug\BehavioralObserver.pdb

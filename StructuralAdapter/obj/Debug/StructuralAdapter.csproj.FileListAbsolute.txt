@@ -1,0 +1,7 @@
+C:\Users\guney.balci\source\repos\DesignPatterns\StructuralAdapter\bin\Debug\StructuralAdapter.exe.config
+C:\Users\guney.balci\source\repos\DesignPatterns\StructuralAdapter\bin\Debug\StructuralAdapter.exe
+C:\Users\guney.balci\source\repos\DesignPatterns\StructuralAdapter\bin\Debug\StructuralAdapter.pdb
+C:\Users\guney.balci\source\repos\DesignPatterns\StructuralAdapter\obj\Debug\StructuralAdapter.csproj.AssemblyReference.cache
+C:\Users\guney.balci\source\repos\DesignPatterns\StructuralAdapter\obj\Debug\StructuralAdapter.csproj.CoreCompileInputs.cache
+C:\Users\guney.balci\source\repos\DesignPatterns\StructuralAdapter\obj\Debug\StructuralAdapter.exe
+C:\Users\guney.balci\source\repos\DesignPatterns\StructuralAdapter\obj\Debug\StructuralAdapter.pdb

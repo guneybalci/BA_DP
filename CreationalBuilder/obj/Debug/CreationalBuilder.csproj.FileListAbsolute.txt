@@ -1,0 +1,6 @@
+C:\Users\guney.balci\source\repos\DesignPatterns\CreationalBuilder\bin\Debug\CreationalBuilder.exe.config
+C:\Users\guney.balci\source\repos\DesignPatterns\CreationalBuilder\bin\Debug\CreationalBuilder.exe
+C:\Users\guney.balci\source\repos\DesignPatterns\CreationalBuilder\bin\Debug\CreationalBuilder.pdb
+C:\Users\guney.balci\source\repos\DesignPatterns\CreationalBuilder\obj\Debug\CreationalBuilder.csproj.CoreCompileInputs.cache
+C:\Users\guney.balci\source\repos\DesignPatterns\CreationalBuilder\obj\Debug\CreationalBuilder.exe
+C:\Users\guney.balci\source\repos\DesignPatterns\CreationalBuilder\obj\Debug\CreationalBuilder.pdb
